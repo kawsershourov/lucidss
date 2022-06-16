@@ -1,0 +1,256 @@
+@media (max-width: 575px) {
+    .nav-item {
+        padding: 0px;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+
+    .navbar-nav {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .phone,
+    .col_non {
+        display: none;
+    }
+
+    .lg_phone {
+        display: inherit;
+
+        text-align: center;
+
+    }
+
+    .lg_phone img {
+        width: 200px;
+        margin: auto;
+
+
+    }
+
+    .height {
+        min-height: 100vh;
+        padding-bottom: 56px;
+        text-align: center;
+    }
+
+    .height h5 {
+        margin: 20px 0;
+        font-size: 16px;
+    }
+
+    .height h1 {
+        font-size: 33px;
+    }
+
+    .height p {
+        font-size: 16px;
+        margin: 32px 0;
+    }
+
+    .feature_section h4 {
+
+        font-size: 16px;
+
+    }
+
+    .feature_section h1 {
+
+        font-size: 20px;
+    }
+
+    .feature_div {
+        margin-bottom: 20px;
+    }
+
+    .feature_div p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .device_section_img {
+        margin: auto;
+        text-align: center;
+
+    }
+
+    .device_section_img img {
+        width: 217px;
+    }
+
+    .device_content {
+
+        text-align: center;
+    }
+
+    .device_content h4 {
+
+        font-size: 16px;
+
+    }
+
+    .device_content h1 {
+
+        font-size: 20px;
+    }
+
+
+    .device_content h4 {
+
+        font-size: 18px;
+
+    }
+
+    .device-content-icon {
+        text-align: center;
+    }
+
+    .device-content-icon p {
+
+font-size: 14px;
+
+margin: 40px  0;
+
+text-align: center;
+
+}
+
+    .device_content h1::before {
+
+
+        left: 185px;
+
+    }
+
+    .device_content h1::after {
+
+        right: 40%;
+
+    }
+
+    .costomize_content {
+
+        text-align: center;
+    }
+
+    .costomize_content h1::before {
+
+        left: 176px;
+
+    }
+
+    .costomize_content h1::after {
+
+        right: 41%;
+
+    }
+
+    .coustomize_pragrap {
+
+font-size: 16px;
+
+text-align: center;
+
+margin-top: 27px;
+
+}
+
+    .testimonials p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .testimonials_client {
+        text-align: center;
+        margin: 0px 123px;
+    }
+
+
+    .testimonial_part h5 {
+
+        font-size: 16px;
+    }
+
+    .testimonial_part h1 {
+
+
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .button h1 {
+        font-size: 23px;
+    }
+
+    .button_section {
+        text-align: center;
+        padding-top: 22px;
+    }
+
+    .button .btn_views {
+
+        padding: 8px 8px;
+
+    }
+
+    .button .btn_downloads {
+
+        padding: 8px 8px;
+
+    }
+
+    .button .btn_downloads {
+
+        padding: 8px 8px;
+
+    }
+    
+
+    .pricing_part h1 {
+        position: relative;
+        font-size: 22px;
+    }
+
+    .pricing_part h1 {
+
+        font-size: 22px;
+    }
+
+    .price {
+        margin: 20px 61px;
+    }
+
+    .contact_content h3 {
+
+        font-size: 13px;
+
+    }
+
+    .form {
+        padding: 40px 27px;
+        width: 76%;
+        height: 157%;
+        top: 88%;
+    }
+
+  
+
+    .google_map {
+        margin-top: 80%;
+    }
+
+    .icon_control ul {
+
+        justify-content: center;
+
+    }
+
+    .icon_control ul li a {
+        color: #444348;
+        margin-right: 14px;
+    }
+
+
+
+}
